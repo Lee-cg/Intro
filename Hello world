@@ -1,0 +1,9 @@
+// First GitHub Test
+// This is Lee C.G
+
+#include <studio.h>
+
+void main() {
+ printf("Hello Beatels!");
+ return 0;
+ }
